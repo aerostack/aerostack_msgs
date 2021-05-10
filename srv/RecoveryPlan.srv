@@ -1,0 +1,10 @@
+# SERVICE TYPE: RecoveryPlan
+# ------------------------------------------------------------------------------
+# This service execute a mission plan
+
+string plan           # string of the plan
+---
+bool ack              # whether the mission is done correctly
+string plan_activated # string that confirm the plan that is activated
+# ------------------------------------------------------------------------------
+

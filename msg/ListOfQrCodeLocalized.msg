@@ -1,0 +1,1 @@
+aerostack_msgs/QrCodeLocalized[] list_of_qr_codes
