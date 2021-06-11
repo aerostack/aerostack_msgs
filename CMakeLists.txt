@@ -68,6 +68,7 @@ add_message_files(
     Vector2Stamped.msg
     QrCodeLocalized.msg
     ListOfQrCodeLocalized.msg
+    TrajectoryWaypoints.msg
 )
 
 add_service_files(
