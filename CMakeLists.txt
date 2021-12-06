@@ -69,6 +69,8 @@ add_message_files(
     QrCodeLocalized.msg
     ListOfQrCodeLocalized.msg
     TrajectoryWaypoints.msg
+    InventoryItemAnnotation.msg
+    ListOfInventoryItemAnnotation.msg
 )
 
 add_service_files(

@@ -1,0 +1,1 @@
+aerostack_msgs/InventoryItemAnnotation[] list_of_annotations
